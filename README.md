@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koogen
 - 👀 I’m interested in Full Stack, Desktop and Game development
 - 🌱 I’m currently learning React!
-- 💞️ I’m looking to collaborate on any game or mod devekopment
+- 💞️ I’m looking to collaborate on any game or mod development
 - 📫 How to reach me: Email me at admin@koogen.me
 
 <!---
